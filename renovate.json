@@ -1,0 +1,10 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "platform": "github",
+    "repositories": [
+        "https://github.com/gsoft-inc/renovate-config-test"
+    ],
+    "extends": [
+        "github>gsoft-inc/renovate-config"
+    ]
+}
